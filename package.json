@@ -1,0 +1,17 @@
+{
+  "name": "webpack-issue-7057",
+  "version": "0.0.1",
+  "description": "Minimal repro case for https://github.com/webpack/webpack/issues/7057",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cletusw/webpack-issue-7057.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  }
+}
